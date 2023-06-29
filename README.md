@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **FULL-STACK DIPLOMA AT ICARO** and **TECNICATURA EN PROGRAMACION AT TECLAB**
 
-- 🌱 I keep training **JavaScript, Html, Css, Bootstrap, SQL, React JS**
+- 🌱 I keep training **JavaScript, Html, Css, Bootstrap, SQL, React JS, Node Js, Express Js**
 
 - 👯 I'm looking for my **first work experience** in the IT field
 
